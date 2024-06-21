@@ -1,0 +1,11 @@
+*{
+padding-top: 30%;
+border-radius: 1 black solid;
+height: 30px;
+background-color: aqua;
+margin-top: 30PX;
+text-decoration: none;
+display: inline;
+flex-direction: column;
+width: 50%;
+}
